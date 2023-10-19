@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasim Tuğberk İNCİ</h1>
-<h3 align="center">.Net Core Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tugberkinci&label=Profile%20views&color=0e75b6&style=flat" alt="tugberkinci" /> </p>
 
